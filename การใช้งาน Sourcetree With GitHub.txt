@@ -1,4 +1,6 @@
 ﻿@@@ การใช้งาน Sourcetree With GitHub @@@
 
+https://medium.com/@beamnichakarn/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sourcetree-with-github-4bcf8a5d9b3a
+
 
 Sourcetree เป็น Software ตัวนึงที่ใช้ GUI แทนการ Run ผ่านหน้าต่าง CMD ใน Windows และหน้า TERMINAL ใน Linux เพื่อให้ผู้ใช้งานใช้งานได้สะดวกขึ้น
